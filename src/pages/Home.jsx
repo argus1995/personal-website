@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 export default function Home() {
     return (
       <section className="py-24 bg-white">
@@ -24,18 +26,18 @@ export default function Home() {
                 A passionate developer creating simple and fast digital solutions.
               </p>
               <div className="flex flex-wrap justify-center md:justify-start gap-4">
-                <a 
-                  href="/portfolio" 
+                <Link  
+                  to="/portfolio" 
                   className="bg-emerald-500 hover:bg-emerald-600 text-white px-6 py-3 rounded-lg transition-colors font-medium shadow hover:shadow-lg"
                 >
                   View My Work
-                </a>
-                <a 
-                  href="/contact" 
+                </Link>
+                <Link 
+                  to="/contact" 
                   className="bg-white text-black border-2 border-black hover:bg-black hover:text-white px-6 py-3 rounded-lg transition-colors font-medium shadow hover:shadow-lg"
                 >
                   Contact Me
-                </a>
+                </Link>
               </div>
             </div>
           </div>
