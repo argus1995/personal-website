@@ -90,7 +90,7 @@ export default function Contact() {
                   <div>
                     <h3 className="text-lg font-medium text-gray-500">Resume</h3>
                     <a 
-                      href="/my-resume.pdf" 
+                      href="/resume-arief.pdf" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-emerald-600 hover:text-emerald-500 transition-colors font-medium"
