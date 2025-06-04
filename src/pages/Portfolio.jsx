@@ -12,13 +12,13 @@ const projects = [
       title: 'Education Website',
       description: 'Responsive Education Website using React and CSS',
       tags: ['React', 'CSS'],
-      link: 'https://mission5videobelajarreact.vercel.app', 
+      link: 'https://advance-fe-2.vercel.app/', 
       image: '/portfolio-2.png' 
     },
     {
       id: 3,
-      title: 'Portofolio Website',
-      description: 'My own personal portofolio website using React and TailwindCSS',
+      title: 'Portfolio Website',
+      description: 'My own personal portfolio website using React and TailwindCSS',
       tags: ['React', 'TailwindCSS'],
       link: 'https://awgusmedia.com', 
       image: '/portfolio-3.png' 
