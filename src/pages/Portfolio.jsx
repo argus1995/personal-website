@@ -31,6 +31,14 @@ const projects = [
         link: 'https://awgusmedia.com', 
         image: '/portfolio-4.png' 
       },
+    {
+        id: 5,
+        title: 'Indonesian Resto',
+        description: 'A simple and modern Indonesian restaurant web app built using React, Vite, HTML, and CSS',
+        tags: ['html', 'CSS', 'React', 'Vite'],
+        link: 'https://indonesian-resto.vercel.app/', 
+        image: '/portfolio-5.png' 
+      },
   ]
   
   export default function Portfolio() {
