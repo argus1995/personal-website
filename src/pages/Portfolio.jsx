@@ -4,7 +4,7 @@ const projects = [
       title: 'Todo App',
       description: 'Simple Todo App with HTML, CSS and JavaCript',
       tags: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://mission4todoapp.vercel.app',
+      link: 'https://simple-todoist-clone.vercel.app/',
       image: '/portfolio-1.png' 
     },
     {
